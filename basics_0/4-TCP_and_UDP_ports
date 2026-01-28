@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Shows listening sockets & PID/name of assoc program
+# Displays listening ports with PID and program name
+
 sudo netstat -tulnp
